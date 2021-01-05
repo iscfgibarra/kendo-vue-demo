@@ -10,7 +10,7 @@
   "dependencies": {
     "@progress/kendo-theme-default": "^3.7.0",
     "@progress/kendo-ui": "^2019.2.605",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "lodash": "^4.17.11",
     "sass-loader": "^7.1.0",
